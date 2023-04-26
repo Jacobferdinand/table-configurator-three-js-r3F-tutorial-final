@@ -30,7 +30,7 @@ export const Interface = () => {
             <FormLabel>Table width</FormLabel>
             <Slider
               sx={{
-                width: "200px",
+                width: "400px",
               }}
               min={50}
               max={200}
